@@ -79,7 +79,7 @@
     <ClInclude Include="AmanPlugIn.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\..\..\..\Program Files (x86)\EuroScope\PlugInEnvironment\EuroScopePlugIn.h">
+    <ClInclude Include="..\lib\include\EuroscopePlugin.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="AmanWindow.h">

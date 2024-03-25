@@ -1,0 +1,299 @@
+﻿  AmanController.cpp
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(43,90): error C2275: 'LPCSTR': illegal use of this type as an expression
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(561): message : see declaration of 'LPCSTR'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(43,97): error C2143: syntax error: missing ')' before 'string'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(43,13): error C2737: 'AMAN_TIME_FONT': const object must be initialized
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(43,97): error C2143: syntax error: missing ';' before 'string'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(43,97): error C2059: syntax error: 'string'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(43,108): error C2059: syntax error: ')'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(44,102): error C2664: 'HFONT CreateFontW(int,int,int,int,int,DWORD,DWORD,DWORD,DWORD,DWORD,DWORD,DWORD,DWORD,LPCWSTR)': cannot convert argument 14 from 'const char [10]' to 'LPCWSTR'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(44,91): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wingdi.h(3827,26): message : see declaration of 'CreateFontW'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(44,13): error C2737: 'AMAN_LABEL_FONT': const object must be initialized
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(45,98): error C2664: 'HFONT CreateFontW(int,int,int,int,int,DWORD,DWORD,DWORD,DWORD,DWORD,DWORD,DWORD,DWORD,LPCWSTR)': cannot convert argument 14 from 'const char [10]' to 'LPCWSTR'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(45,87): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wingdi.h(3827,26): message : see declaration of 'CreateFontW'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(45,13): error C2737: 'AMAN_FIX_FONT': const object must be initialized
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(46,103): error C2664: 'HFONT CreateFontW(int,int,int,int,int,DWORD,DWORD,DWORD,DWORD,DWORD,DWORD,DWORD,DWORD,LPCWSTR)': cannot convert argument 14 from 'const char [10]' to 'LPCWSTR'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(46,92): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wingdi.h(3827,26): message : see declaration of 'CreateFontW'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(46,13): error C2737: 'AMAN_LEGEND_FONT': const object must be initialized
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(47,101): error C2664: 'HFONT CreateFontW(int,int,int,int,int,DWORD,DWORD,DWORD,DWORD,DWORD,DWORD,DWORD,DWORD,LPCWSTR)': cannot convert argument 14 from 'const char [10]' to 'LPCWSTR'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(47,90): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wingdi.h(3827,26): message : see declaration of 'CreateFontW'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(47,13): error C2737: 'AMAN_MENU_FONT': const object must be initialized
+  AmanPlugIn.cpp
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(43,90): error C2275: 'LPCSTR': illegal use of this type as an expression
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(561): message : see declaration of 'LPCSTR'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(43,97): error C2143: syntax error: missing ')' before 'string'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(43,13): error C2737: 'AMAN_TIME_FONT': const object must be initialized
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(43,97): error C2143: syntax error: missing ';' before 'string'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(43,97): error C2059: syntax error: 'string'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(43,108): error C2059: syntax error: ')'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(44,102): error C2664: 'HFONT CreateFontW(int,int,int,int,int,DWORD,DWORD,DWORD,DWORD,DWORD,DWORD,DWORD,DWORD,LPCWSTR)': cannot convert argument 14 from 'const char [10]' to 'LPCWSTR'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(44,91): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wingdi.h(3827,26): message : see declaration of 'CreateFontW'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(44,13): error C2737: 'AMAN_LABEL_FONT': const object must be initialized
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(45,98): error C2664: 'HFONT CreateFontW(int,int,int,int,int,DWORD,DWORD,DWORD,DWORD,DWORD,DWORD,DWORD,DWORD,LPCWSTR)': cannot convert argument 14 from 'const char [10]' to 'LPCWSTR'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(45,87): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wingdi.h(3827,26): message : see declaration of 'CreateFontW'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(45,13): error C2737: 'AMAN_FIX_FONT': const object must be initialized
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(46,103): error C2664: 'HFONT CreateFontW(int,int,int,int,int,DWORD,DWORD,DWORD,DWORD,DWORD,DWORD,DWORD,DWORD,LPCWSTR)': cannot convert argument 14 from 'const char [10]' to 'LPCWSTR'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(46,92): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wingdi.h(3827,26): message : see declaration of 'CreateFontW'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(46,13): error C2737: 'AMAN_LEGEND_FONT': const object must be initialized
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(47,101): error C2664: 'HFONT CreateFontW(int,int,int,int,int,DWORD,DWORD,DWORD,DWORD,DWORD,DWORD,DWORD,DWORD,LPCWSTR)': cannot convert argument 14 from 'const char [10]' to 'LPCWSTR'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(47,90): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wingdi.h(3827,26): message : see declaration of 'CreateFontW'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(47,13): error C2737: 'AMAN_MENU_FONT': const object must be initialized
+C:\Users\sso99\source\repos\euroscope-aman\Aman\AmanPlugIn.cpp(62,27): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\sso99\source\repos\euroscope-aman\Aman\AmanPlugIn.cpp(80,32): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\sso99\source\repos\euroscope-aman\Aman\AmanPlugIn.cpp(81,35): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\sso99\source\repos\euroscope-aman\Aman\AmanPlugIn.cpp(87,42): warning C4305: 'initializing': truncation from 'unsigned int' to 'float'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\AmanPlugIn.cpp(88,42): warning C4305: 'initializing': truncation from 'unsigned int' to 'float'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\AmanPlugIn.cpp(89,42): warning C4305: 'initializing': truncation from 'unsigned int' to 'float'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\AmanPlugIn.cpp(93,33): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\sso99\source\repos\euroscope-aman\Aman\AmanPlugIn.cpp(94,33): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\sso99\source\repos\euroscope-aman\Aman\AmanPlugIn.cpp(104,54): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\sso99\source\repos\euroscope-aman\Aman\AmanPlugIn.cpp(201,43): error C2039: 'GetObjectA': is not a member of 'rapidjson::GenericValue<rapidjson::UTF8<char>,rapidjson::MemoryPoolAllocator<rapidjson::CrtAllocator>>'
+C:\Users\sso99\source\repos\euroscope-aman\lib\include\rapidjson\document.h(2189): message : see declaration of 'rapidjson::GenericValue<rapidjson::UTF8<char>,rapidjson::MemoryPoolAllocator<rapidjson::CrtAllocator>>'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\AmanPlugIn.cpp(204,62): error C3536: 'object': cannot be used before it is initialized
+C:\Users\sso99\source\repos\euroscope-aman\Aman\AmanPlugIn.cpp(204,13): error C2530: 'fix': references must be initialized
+C:\Users\sso99\source\repos\euroscope-aman\Aman\AmanPlugIn.cpp(204,13): error C3531: 'fix': a symbol whose type contains 'auto' must have an initializer
+C:\Users\sso99\source\repos\euroscope-aman\Aman\AmanPlugIn.cpp(204,28): error C2143: syntax error: missing ';' before ':'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\AmanPlugIn.cpp(204,62): error C2143: syntax error: missing ';' before ')'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\AmanPlugIn.cpp(210,17): error C2530: 'fix': references must be initialized
+C:\Users\sso99\source\repos\euroscope-aman\Aman\AmanPlugIn.cpp(210,17): error C3531: 'fix': a symbol whose type contains 'auto' must have an initializer
+C:\Users\sso99\source\repos\euroscope-aman\Aman\AmanPlugIn.cpp(210,32): error C2143: syntax error: missing ';' before ':'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\AmanPlugIn.cpp(210,63): error C2143: syntax error: missing ';' before ')'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\AmanPlugIn.cpp(217,17): error C2530: 'destination': references must be initialized
+C:\Users\sso99\source\repos\euroscope-aman\Aman\AmanPlugIn.cpp(217,17): error C3531: 'destination': a symbol whose type contains 'auto' must have an initializer
+C:\Users\sso99\source\repos\euroscope-aman\Aman\AmanPlugIn.cpp(217,40): error C2143: syntax error: missing ';' before ':'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\AmanPlugIn.cpp(217,82): error C2143: syntax error: missing ';' before ')'
+  AmanTimelineView.cpp
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(43,90): error C2275: 'LPCSTR': illegal use of this type as an expression
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(561): message : see declaration of 'LPCSTR'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(43,97): error C2143: syntax error: missing ')' before 'string'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(43,13): error C2737: 'AMAN_TIME_FONT': const object must be initialized
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(43,97): error C2143: syntax error: missing ';' before 'string'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(43,97): error C2059: syntax error: 'string'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(43,108): error C2059: syntax error: ')'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(44,102): error C2664: 'HFONT CreateFontW(int,int,int,int,int,DWORD,DWORD,DWORD,DWORD,DWORD,DWORD,DWORD,DWORD,LPCWSTR)': cannot convert argument 14 from 'const char [10]' to 'LPCWSTR'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(44,91): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wingdi.h(3827,26): message : see declaration of 'CreateFontW'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(44,13): error C2737: 'AMAN_LABEL_FONT': const object must be initialized
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(45,98): error C2664: 'HFONT CreateFontW(int,int,int,int,int,DWORD,DWORD,DWORD,DWORD,DWORD,DWORD,DWORD,DWORD,LPCWSTR)': cannot convert argument 14 from 'const char [10]' to 'LPCWSTR'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(45,87): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wingdi.h(3827,26): message : see declaration of 'CreateFontW'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(45,13): error C2737: 'AMAN_FIX_FONT': const object must be initialized
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(46,103): error C2664: 'HFONT CreateFontW(int,int,int,int,int,DWORD,DWORD,DWORD,DWORD,DWORD,DWORD,DWORD,DWORD,LPCWSTR)': cannot convert argument 14 from 'const char [10]' to 'LPCWSTR'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(46,92): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wingdi.h(3827,26): message : see declaration of 'CreateFontW'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(46,13): error C2737: 'AMAN_LEGEND_FONT': const object must be initialized
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(47,101): error C2664: 'HFONT CreateFontW(int,int,int,int,int,DWORD,DWORD,DWORD,DWORD,DWORD,DWORD,DWORD,DWORD,LPCWSTR)': cannot convert argument 14 from 'const char [10]' to 'LPCWSTR'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(47,90): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wingdi.h(3827,26): message : see declaration of 'CreateFontW'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(47,13): error C2737: 'AMAN_MENU_FONT': const object must be initialized
+C:\Users\sso99\source\repos\euroscope-aman\Aman\AmanTimelineView.cpp(74,30): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\sso99\source\repos\euroscope-aman\Aman\AmanTimelineView.cpp(75,30): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\sso99\source\repos\euroscope-aman\Aman\AmanTimelineView.cpp(76,32): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\sso99\source\repos\euroscope-aman\Aman\AmanTimelineView.cpp(79,22): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\sso99\source\repos\euroscope-aman\Aman\AmanTimelineView.cpp(95,91): error C2664: 'int DrawTextW(HDC,LPCWSTR,int,LPRECT,UINT)': cannot convert argument 2 from 'const _Elem *' to 'LPCWSTR'
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\sso99\source\repos\euroscope-aman\Aman\AmanTimelineView.cpp(95,43): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(8202,1): message : see declaration of 'DrawTextW'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\AmanTimelineView.cpp(125,82): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\sso99\source\repos\euroscope-aman\Aman\AmanTimelineView.cpp(126,82): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\sso99\source\repos\euroscope-aman\Aman\AmanTimelineView.cpp(128,82): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\sso99\source\repos\euroscope-aman\Aman\AmanTimelineView.cpp(140,64): error C2664: 'int DrawTextW(HDC,LPCWSTR,int,LPRECT,UINT)': cannot convert argument 2 from 'const _Elem *' to 'LPCWSTR'
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\sso99\source\repos\euroscope-aman\Aman\AmanTimelineView.cpp(140,29): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(8202,1): message : see declaration of 'DrawTextW'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\AmanTimelineView.cpp(174,20): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\sso99\source\repos\euroscope-aman\Aman\AmanTimelineView.cpp(187,59): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+C:\Users\sso99\source\repos\euroscope-aman\Aman\AmanTimelineView.cpp(240,1): error C2664: 'int DrawTextW(HDC,LPCWSTR,int,LPRECT,UINT)': cannot convert argument 2 from 'const _Elem *' to 'LPCWSTR'
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\sso99\source\repos\euroscope-aman\Aman\AmanTimelineView.cpp(240,39): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(8202,1): message : see declaration of 'DrawTextW'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\AmanTimelineView.cpp(241,1): error C2664: 'int DrawTextW(HDC,LPCWSTR,int,LPRECT,UINT)': cannot convert argument 2 from 'const _Elem *' to 'LPCWSTR'
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\sso99\source\repos\euroscope-aman\Aman\AmanTimelineView.cpp(241,39): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(8202,1): message : see declaration of 'DrawTextW'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\AmanTimelineView.cpp(275,23): warning C4996: 'gmtime': This function or variable may be unsafe. Consider using gmtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\sso99\source\repos\euroscope-aman\Aman\AmanTimelineView.cpp(283,28): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\sso99\source\repos\euroscope-aman\Aman\AmanTimelineView.cpp(314,27): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  AmanWindow.cpp
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(43,90): error C2275: 'LPCSTR': illegal use of this type as an expression
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(561): message : see declaration of 'LPCSTR'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(43,97): error C2143: syntax error: missing ')' before 'string'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(43,13): error C2737: 'AMAN_TIME_FONT': const object must be initialized
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(43,97): error C2143: syntax error: missing ';' before 'string'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(43,97): error C2059: syntax error: 'string'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(43,108): error C2059: syntax error: ')'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(44,102): error C2664: 'HFONT CreateFontW(int,int,int,int,int,DWORD,DWORD,DWORD,DWORD,DWORD,DWORD,DWORD,DWORD,LPCWSTR)': cannot convert argument 14 from 'const char [10]' to 'LPCWSTR'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(44,91): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wingdi.h(3827,26): message : see declaration of 'CreateFontW'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(44,13): error C2737: 'AMAN_LABEL_FONT': const object must be initialized
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(45,98): error C2664: 'HFONT CreateFontW(int,int,int,int,int,DWORD,DWORD,DWORD,DWORD,DWORD,DWORD,DWORD,DWORD,LPCWSTR)': cannot convert argument 14 from 'const char [10]' to 'LPCWSTR'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(45,87): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wingdi.h(3827,26): message : see declaration of 'CreateFontW'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(45,13): error C2737: 'AMAN_FIX_FONT': const object must be initialized
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(46,103): error C2664: 'HFONT CreateFontW(int,int,int,int,int,DWORD,DWORD,DWORD,DWORD,DWORD,DWORD,DWORD,DWORD,LPCWSTR)': cannot convert argument 14 from 'const char [10]' to 'LPCWSTR'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(46,92): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wingdi.h(3827,26): message : see declaration of 'CreateFontW'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(46,13): error C2737: 'AMAN_LEGEND_FONT': const object must be initialized
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(47,101): error C2664: 'HFONT CreateFontW(int,int,int,int,int,DWORD,DWORD,DWORD,DWORD,DWORD,DWORD,DWORD,DWORD,LPCWSTR)': cannot convert argument 14 from 'const char [10]' to 'LPCWSTR'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(47,90): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wingdi.h(3827,26): message : see declaration of 'CreateFontW'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(47,13): error C2737: 'AMAN_MENU_FONT': const object must be initialized
+  MenuBar.cpp
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(43,90): error C2275: 'LPCSTR': illegal use of this type as an expression
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(561): message : see declaration of 'LPCSTR'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(43,97): error C2143: syntax error: missing ')' before 'string'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(43,13): error C2737: 'AMAN_TIME_FONT': const object must be initialized
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(43,97): error C2143: syntax error: missing ';' before 'string'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(43,97): error C2059: syntax error: 'string'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(43,108): error C2059: syntax error: ')'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(44,102): error C2664: 'HFONT CreateFontW(int,int,int,int,int,DWORD,DWORD,DWORD,DWORD,DWORD,DWORD,DWORD,DWORD,LPCWSTR)': cannot convert argument 14 from 'const char [10]' to 'LPCWSTR'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(44,91): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wingdi.h(3827,26): message : see declaration of 'CreateFontW'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(44,13): error C2737: 'AMAN_LABEL_FONT': const object must be initialized
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(45,98): error C2664: 'HFONT CreateFontW(int,int,int,int,int,DWORD,DWORD,DWORD,DWORD,DWORD,DWORD,DWORD,DWORD,LPCWSTR)': cannot convert argument 14 from 'const char [10]' to 'LPCWSTR'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(45,87): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wingdi.h(3827,26): message : see declaration of 'CreateFontW'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(45,13): error C2737: 'AMAN_FIX_FONT': const object must be initialized
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(46,103): error C2664: 'HFONT CreateFontW(int,int,int,int,int,DWORD,DWORD,DWORD,DWORD,DWORD,DWORD,DWORD,DWORD,LPCWSTR)': cannot convert argument 14 from 'const char [10]' to 'LPCWSTR'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(46,92): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wingdi.h(3827,26): message : see declaration of 'CreateFontW'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(46,13): error C2737: 'AMAN_LEGEND_FONT': const object must be initialized
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(47,101): error C2664: 'HFONT CreateFontW(int,int,int,int,int,DWORD,DWORD,DWORD,DWORD,DWORD,DWORD,DWORD,DWORD,LPCWSTR)': cannot convert argument 14 from 'const char [10]' to 'LPCWSTR'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(47,90): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wingdi.h(3827,26): message : see declaration of 'CreateFontW'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(47,13): error C2737: 'AMAN_MENU_FONT': const object must be initialized
+C:\Users\sso99\source\repos\euroscope-aman\Aman\MenuBar.cpp(40,76): error C2664: 'int DrawTextW(HDC,LPCWSTR,int,LPRECT,UINT)': cannot convert argument 2 from 'const _Elem *' to 'LPCWSTR'
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\sso99\source\repos\euroscope-aman\Aman\MenuBar.cpp(40,29): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(8202,1): message : see declaration of 'DrawTextW'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\MenuBar.cpp(41,62): error C2664: 'int DrawTextW(HDC,LPCWSTR,int,LPRECT,UINT)': cannot convert argument 2 from 'const _Elem *' to 'LPCWSTR'
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\sso99\source\repos\euroscope-aman\Aman\MenuBar.cpp(41,29): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(8202,1): message : see declaration of 'DrawTextW'
+  PopupMenu.cpp
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(43,90): error C2275: 'LPCSTR': illegal use of this type as an expression
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(561): message : see declaration of 'LPCSTR'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(43,97): error C2143: syntax error: missing ')' before 'string'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(43,13): error C2737: 'AMAN_TIME_FONT': const object must be initialized
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(43,97): error C2143: syntax error: missing ';' before 'string'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(43,97): error C2059: syntax error: 'string'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(43,108): error C2059: syntax error: ')'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(44,102): error C2664: 'HFONT CreateFontW(int,int,int,int,int,DWORD,DWORD,DWORD,DWORD,DWORD,DWORD,DWORD,DWORD,LPCWSTR)': cannot convert argument 14 from 'const char [10]' to 'LPCWSTR'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(44,91): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wingdi.h(3827,26): message : see declaration of 'CreateFontW'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(44,13): error C2737: 'AMAN_LABEL_FONT': const object must be initialized
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(45,98): error C2664: 'HFONT CreateFontW(int,int,int,int,int,DWORD,DWORD,DWORD,DWORD,DWORD,DWORD,DWORD,DWORD,LPCWSTR)': cannot convert argument 14 from 'const char [10]' to 'LPCWSTR'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(45,87): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wingdi.h(3827,26): message : see declaration of 'CreateFontW'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(45,13): error C2737: 'AMAN_FIX_FONT': const object must be initialized
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(46,103): error C2664: 'HFONT CreateFontW(int,int,int,int,int,DWORD,DWORD,DWORD,DWORD,DWORD,DWORD,DWORD,DWORD,LPCWSTR)': cannot convert argument 14 from 'const char [10]' to 'LPCWSTR'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(46,92): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wingdi.h(3827,26): message : see declaration of 'CreateFontW'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(46,13): error C2737: 'AMAN_LEGEND_FONT': const object must be initialized
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(47,101): error C2664: 'HFONT CreateFontW(int,int,int,int,int,DWORD,DWORD,DWORD,DWORD,DWORD,DWORD,DWORD,DWORD,LPCWSTR)': cannot convert argument 14 from 'const char [10]' to 'LPCWSTR'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(47,90): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wingdi.h(3827,26): message : see declaration of 'CreateFontW'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(47,13): error C2737: 'AMAN_MENU_FONT': const object must be initialized
+C:\Users\sso99\source\repos\euroscope-aman\Aman\PopupMenu.cpp(38,91): error C2664: 'int DrawTextW(HDC,LPCWSTR,int,LPRECT,UINT)': cannot convert argument 2 from 'const _Elem *' to 'LPCWSTR'
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\sso99\source\repos\euroscope-aman\Aman\PopupMenu.cpp(38,34): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(8202,1): message : see declaration of 'DrawTextW'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\PopupMenu.cpp(77,78): error C2664: 'int DrawTextW(HDC,LPCWSTR,int,LPRECT,UINT)': cannot convert argument 2 from 'const _Elem *' to 'LPCWSTR'
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\sso99\source\repos\euroscope-aman\Aman\PopupMenu.cpp(77,30): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(8202,1): message : see declaration of 'DrawTextW'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\PopupMenu.cpp(79,64): error C2664: 'int DrawTextW(HDC,LPCWSTR,int,LPRECT,UINT)': cannot convert argument 2 from 'const _Elem *' to 'LPCWSTR'
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\sso99\source\repos\euroscope-aman\Aman\PopupMenu.cpp(79,30): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(8202,1): message : see declaration of 'DrawTextW'
+  TitleBar.cpp
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(43,90): error C2275: 'LPCSTR': illegal use of this type as an expression
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(561): message : see declaration of 'LPCSTR'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(43,97): error C2143: syntax error: missing ')' before 'string'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(43,13): error C2737: 'AMAN_TIME_FONT': const object must be initialized
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(43,97): error C2143: syntax error: missing ';' before 'string'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(43,97): error C2059: syntax error: 'string'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(43,108): error C2059: syntax error: ')'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(44,102): error C2664: 'HFONT CreateFontW(int,int,int,int,int,DWORD,DWORD,DWORD,DWORD,DWORD,DWORD,DWORD,DWORD,LPCWSTR)': cannot convert argument 14 from 'const char [10]' to 'LPCWSTR'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(44,91): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wingdi.h(3827,26): message : see declaration of 'CreateFontW'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(44,13): error C2737: 'AMAN_LABEL_FONT': const object must be initialized
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(45,98): error C2664: 'HFONT CreateFontW(int,int,int,int,int,DWORD,DWORD,DWORD,DWORD,DWORD,DWORD,DWORD,DWORD,LPCWSTR)': cannot convert argument 14 from 'const char [10]' to 'LPCWSTR'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(45,87): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wingdi.h(3827,26): message : see declaration of 'CreateFontW'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(45,13): error C2737: 'AMAN_FIX_FONT': const object must be initialized
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(46,103): error C2664: 'HFONT CreateFontW(int,int,int,int,int,DWORD,DWORD,DWORD,DWORD,DWORD,DWORD,DWORD,DWORD,LPCWSTR)': cannot convert argument 14 from 'const char [10]' to 'LPCWSTR'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(46,92): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wingdi.h(3827,26): message : see declaration of 'CreateFontW'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(46,13): error C2737: 'AMAN_LEGEND_FONT': const object must be initialized
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(47,101): error C2664: 'HFONT CreateFontW(int,int,int,int,int,DWORD,DWORD,DWORD,DWORD,DWORD,DWORD,DWORD,DWORD,LPCWSTR)': cannot convert argument 14 from 'const char [10]' to 'LPCWSTR'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(47,90): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wingdi.h(3827,26): message : see declaration of 'CreateFontW'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Constants.h(47,13): error C2737: 'AMAN_MENU_FONT': const object must be initialized
+C:\Users\sso99\source\repos\euroscope-aman\Aman\TitleBar.cpp(31,112): error C2664: 'int DrawTextW(HDC,LPCWSTR,int,LPRECT,UINT)': cannot convert argument 2 from 'const char *' to 'LPCWSTR'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\TitleBar.cpp(31,25): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(8202,1): message : see declaration of 'DrawTextW'
+  Window.cpp
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Window.cpp(20,58): error C2065: 'GWL_HINSTANCE': undeclared identifier
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Window.cpp(21,49): error C2664: 'BOOL UnregisterClassW(LPCWSTR,HINSTANCE)': cannot convert argument 1 from 'const _Elem *' to 'LPCWSTR'
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Window.cpp(21,36): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(4311,1): message : see declaration of 'UnregisterClassW'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Window.cpp(57,41): error C2440: '=': cannot convert from 'const _Elem *' to 'LPCWSTR'
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Window.cpp(57,39): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Window.cpp(61,36): warning C4302: 'type cast': truncation from 'LPWSTR' to 'WORD'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Window.cpp(62,41): warning C4302: 'type cast': truncation from 'LPWSTR' to 'WORD'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Window.cpp(73,20): error C2664: 'HWND CreateWindowExW(DWORD,LPCWSTR,LPCWSTR,DWORD,int,int,int,int,HWND,HMENU,HINSTANCE,LPVOID)': cannot convert argument 2 from 'const _Elem *' to 'LPCWSTR'
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Window.cpp(75,24): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(4437,1): message : see declaration of 'CreateWindowExW'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Window.cpp(103,31): error C2065: 'GWL_USERDATA': undeclared identifier
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Window.cpp(103,74): warning C4311: 'reinterpret_cast': pointer truncation from 'Window *' to 'long'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Window.cpp(103,74): warning C4302: 'reinterpret_cast': truncation from 'Window *' to 'long'
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Window.cpp(107,66): error C2065: 'GWL_USERDATA': undeclared identifier
+C:\Users\sso99\source\repos\euroscope-aman\Aman\Window.cpp(117,58): error C2065: 'GWL_HINSTANCE': undeclared identifier

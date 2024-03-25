@@ -167,6 +167,7 @@
       <FunctionLevelLinking>true</FunctionLevelLinking>
       <IntrinsicFunctions>true</IntrinsicFunctions>
       <PreprocessorDefinitions>_WINDOWS;NDEBUG;_USRDLL;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>../lib/include</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Windows</SubSystem>
@@ -209,7 +210,7 @@
     <None Include="res\Aman.rc2" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\..\..\..\..\Program Files (x86)\EuroScope\PlugInEnvironment\EuroScopePlugIn.h" />
+    <ClInclude Include="..\lib\include\EuroscopePlugin.h" />
     <ClInclude Include="AmanTagItem.h" />
     <ClInclude Include="EventEmitter.h" />
     <ClInclude Include="Aman.h" />
