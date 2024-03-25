@@ -108,8 +108,25 @@ Search tags:
 > Vatsim, air traffic control, ATC, flight simulator
 
 
-# Call Hiearchy
+# Main call Hiearchy
 ```
 CAmanApp (Aman.cpp)
-   AmanPlugin (declared and exported in Main.cpp)
+  gpAmanPlugin* of type AmanPlugin (global pointer declared and exported to Euroscope in Main.cpp)
+    AmanPlugin (declared and defined in AmanPlugin.h/.cpp)
+      AmanController  (declared and defined in AmanController.h/.cpp)
+        AmanWindow (declared and defiend in AmanWindow.h/.cpp)
+        modelUpdated()
+          amanModel->getTimelines
+          amanModel->getAvailableIDs
+          amanWindow->update(timelines)
+          amanWindow->setAvailableTimelines(loadedDefinitions)
+      AmanTimelines (declared and defined in AmanTimelines.h/.cpp)
+OnCompileCommand (ES virtual/callback defined in AmanPlugin.cpp)
+  ".aman open" - amanController->openWindow()
+  ".aman close" - amanController->closeWindow()
+OnTimer (ES virtual/callback defined in AmanPlugin.cpp)  // Called once every second after all Data models have been updated.
+  amanController->modelUpdated()
+
+      
+                
 ```
