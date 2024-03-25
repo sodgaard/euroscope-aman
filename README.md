@@ -108,7 +108,7 @@ Search tags:
 > Vatsim, air traffic control, ATC, flight simulator
 
 
-# Main call Hiearchy
+# Main call hiearchy
 ```
 CAmanApp (Aman.cpp)
   gpAmanPlugin* of type AmanPlugin (global pointer declared and exported to Euroscope in Main.cpp)
