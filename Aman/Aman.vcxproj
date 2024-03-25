@@ -206,6 +206,7 @@
     <ClCompile Include="Window.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="..\README.md" />
     <None Include="Aman.def" />
     <None Include="res\Aman.rc2" />
   </ItemGroup>
