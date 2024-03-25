@@ -109,6 +109,7 @@ Search tags:
 
 
 # Call Hiearchy
-```CAmanApp (Aman.cpp)
+```
+CAmanApp (Aman.cpp)
    AmanPlugin (declared and exported in Main.cpp)
 ```
