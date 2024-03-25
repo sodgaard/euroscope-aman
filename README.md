@@ -125,8 +125,5 @@ OnCompileCommand (ES virtual/callback defined in AmanPlugin.cpp)
   ".aman open" - amanController->openWindow()
   ".aman close" - amanController->closeWindow()
 OnTimer (ES virtual/callback defined in AmanPlugin.cpp)  // Called once every second after all Data models have been updated.
-  amanController->modelUpdated()
-
-      
-                
+  amanController->modelUpdated()              
 ```
